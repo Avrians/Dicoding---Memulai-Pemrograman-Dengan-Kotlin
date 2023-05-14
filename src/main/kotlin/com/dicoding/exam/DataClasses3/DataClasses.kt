@@ -43,4 +43,11 @@ fun main(){
 
     println(user.equals(user2))
     println(user.equals(user3))
+
+    // Sub Bab Menyalin dan Memodifikasi Data Class
+    val dataUser4 = dataUser.copy()
+    println(dataUser4)
+
+    val dataUser5 = dataUser.copy(age = 18)
+    println(dataUser5)
 }
