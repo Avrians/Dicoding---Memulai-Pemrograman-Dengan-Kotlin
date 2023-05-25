@@ -28,3 +28,5 @@ fun main() {
     // internal
     // internal class Animal(val name: String)
 }
+
+// Author Avriansyah Bahtiar

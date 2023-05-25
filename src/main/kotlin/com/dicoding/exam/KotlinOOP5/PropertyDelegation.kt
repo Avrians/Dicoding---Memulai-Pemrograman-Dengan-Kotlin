@@ -73,3 +73,5 @@ fun main() {
     println("Berat: ${hewan.weight}")
     println("Umur: ${hewan.age} Tahun")
 }
+
+// Author Avriansyah Bahtiar

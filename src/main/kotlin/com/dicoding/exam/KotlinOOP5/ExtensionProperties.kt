@@ -9,3 +9,5 @@ fun main() {
     val dicodingCat = Animal5("Dicoding Miaw", 5.0, 2, true)
     println(dicodingCat.getAnimalInfo)
 }
+
+// Author Avriansyah Bahtiar

@@ -45,3 +45,5 @@ fun main() {
     println(calc.min(9, 2))
     println(calc.min(17.2, 18.3))
 }
+
+// Author Avriansyah Bahtiar

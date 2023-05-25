@@ -40,3 +40,5 @@ output:
     Dicoding Miaw sedang memakan ikan !
     Dicoding Miaw sedang tidur di bantal !
 */
+
+// Author Avriansyah Bahtiar

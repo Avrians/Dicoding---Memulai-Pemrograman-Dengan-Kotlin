@@ -31,3 +31,5 @@ output:
     Nama: Dicoding Miaw, Berat: 2.5, Umur: 2, mamalia: true
     Nama: Dicoding tweet, Berat: 0.5, Umur: 1, mamalia: false
 */
+
+// Author Avriansyah Bahtiar

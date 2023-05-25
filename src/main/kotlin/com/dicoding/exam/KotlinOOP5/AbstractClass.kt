@@ -18,3 +18,5 @@ fun main(){
      */
     //    val animal = Animal11("dicoding animal", 2.6, 1, true)
 }
+
+// Author Avriansyah Bahtiar

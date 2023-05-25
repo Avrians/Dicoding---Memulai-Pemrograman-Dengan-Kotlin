@@ -27,3 +27,5 @@ Fungsi Setter terpanggil
 Fungsi Getter terpanggil
 Nama: Goose
 */
+
+// Author Avriansyah Bahtiar

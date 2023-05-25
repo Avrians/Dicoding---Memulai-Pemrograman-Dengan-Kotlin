@@ -26,3 +26,5 @@ class Hewan(pName: String, pWeight: Double, pAge: Int, pIsMammal: Boolean){
         isMammal = pIsMammal
     }
 }
+
+// Author Avriansyah Bahtiar

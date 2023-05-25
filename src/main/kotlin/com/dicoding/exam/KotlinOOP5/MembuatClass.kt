@@ -21,3 +21,5 @@ fun main() {
     dicodingCat.eat()
     dicodingCat.sleep()
 }
+
+// Author Avriansyah Bahtiar
