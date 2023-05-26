@@ -29,5 +29,6 @@ fun Int.plusThree(): Int {
 val Int.slice: Int
     get() = this / 2
 
+// Author Avriansyah Bahtiar
 
 

@@ -25,3 +25,4 @@ val printMessage = { message: String -> println(message) }
 
 val messageLength = { message: String -> message.length }
 
+// Author Avriansyah Bahtiar

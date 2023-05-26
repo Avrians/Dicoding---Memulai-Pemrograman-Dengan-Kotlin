@@ -31,4 +31,5 @@ val Int?.slice: Int
 //  if expression
 val Int?.sliceiF: Int
     get() = if (this == null) 0 else this.div(2)
+// Author Avriansyah Bahtiar
 

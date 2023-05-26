@@ -17,3 +17,5 @@ package com.dicoding.exam.KotlinFunctional4
 //        it.name
 //    }
 //}
+
+// Author Avriansyah Bahtiar

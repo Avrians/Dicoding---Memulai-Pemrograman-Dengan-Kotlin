@@ -20,3 +20,4 @@ tailrec fun factorial(n: Int, result: Int = 1): Int {
         factorial(n - 1, newResult)
     }
 }
+// Author Avriansyah Bahtiar

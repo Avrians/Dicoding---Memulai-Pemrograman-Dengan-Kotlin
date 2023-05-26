@@ -20,3 +20,5 @@ fun main() {
     println(sumResult)
     println(multiplyResult)
 }
+
+// Author Avriansyah Bahtiar

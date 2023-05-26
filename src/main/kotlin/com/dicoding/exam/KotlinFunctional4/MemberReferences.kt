@@ -26,3 +26,4 @@ fun Int.isEvenNumber2() = this % 2 == 0
 /*
    output = [2, 4, 6, 8, 10]
 */
+// Author Avriansyah Bahtiar
