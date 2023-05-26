@@ -48,3 +48,4 @@ fun main() {
     // Nilai pada variable rangeChar di atas mencakup A, B, C, D, E, F
 
 }
+// Author Avriansyah Bahtiar
