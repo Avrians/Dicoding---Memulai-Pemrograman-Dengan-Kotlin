@@ -15,3 +15,4 @@ fun main() {
     val dataUser2 = DataUser("nrohmen", 23)
     dataUser2.intro()
 }
+// Author Avriansyah Bahtiar

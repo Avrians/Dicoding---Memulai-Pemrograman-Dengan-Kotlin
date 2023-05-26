@@ -10,3 +10,4 @@ fun main() {
     sequenceNumber.take(5).forEach { print("$it ") } //  fungsi take() supaya program tidak mengalami infinite loop.
     // Output: 1 2 3 4 5
 }
+// Author Avriansyah Bahtiar

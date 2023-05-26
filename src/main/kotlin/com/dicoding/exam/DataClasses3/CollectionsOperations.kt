@@ -42,3 +42,4 @@ fun main() {
     println(descendingSort)
     // descendingSort: [t, o, n, l, k, i]
 }
+// Author Avriansyah Bahtiar

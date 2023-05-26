@@ -19,3 +19,4 @@ fun main() {
     anyList[3] = false // mengubah nilai item pada indeks ke-3
     anyList.removeAt(0) // menghapus item pada indeks ke-0
 }
+// Author Avriansyah Bahtiar
