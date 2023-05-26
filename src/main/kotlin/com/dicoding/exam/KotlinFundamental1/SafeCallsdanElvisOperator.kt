@@ -23,3 +23,5 @@ fun main() {
     val textLength2 = text!!.length // ready to go ???
     // Dengan menggunakan non-null assertion kompiler akan mengizinkan kita untuk mengakses atau mengelola nilai dari sebuah objek nullable. Namun penggunaan operator tersebut sangat tidak disarankan karena akan memaksa sebuah objek menjadi non-null. Sehingga ketika objek tersebut bernilai null, Anda tetap akan berjumpa dengan NullPointerException.
 }
+
+// Author Avriansyah Bahtiar

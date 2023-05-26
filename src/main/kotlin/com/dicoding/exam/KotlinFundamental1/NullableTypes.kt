@@ -14,3 +14,5 @@ fun main() {
         val textLength = text.length // ready to go
     }
 }
+
+// Author Avriansyah Bahtiar
