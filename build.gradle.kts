@@ -25,3 +25,7 @@ kotlin {
 application {
     mainClass.set("MainKt")
 }
+
+dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1")
+}
